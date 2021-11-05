@@ -1,1 +1,3 @@
-# credit-screening
+# Credit Screening
+
+Machine Learning Assessment Task 1
